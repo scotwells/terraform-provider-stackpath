@@ -1,16 +1,16 @@
 module github.com/stackpath/terraform-provider-stackpath
 
 require (
-	github.com/go-openapi/errors v0.19.2
+	github.com/go-openapi/errors v0.19.8
 	github.com/go-openapi/loads v0.19.2 // indirect
 	github.com/go-openapi/runtime v0.0.0-20180509184547-c0cae94704c7
-	github.com/go-openapi/strfmt v0.19.0
+	github.com/go-openapi/strfmt v0.20.0
 	github.com/go-openapi/swag v0.19.2
 	github.com/go-openapi/validate v0.0.0-20180502213133-9286f6d0e5c1
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/hashicorp/terraform v0.12.3
 	github.com/mailru/easyjson v0.0.0-20190620125010-da37f6c1e481 // indirect
-	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/oauth2 v0.0.0-20190220154721-9b3c75971fc9
 	gopkg.in/vmihailenco/msgpack.v2 v2.9.1 // indirect
 	labix.org/v2/mgo v0.0.0-20140701140051-000000000287 // indirect
